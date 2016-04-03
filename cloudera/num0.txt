@@ -1,0 +1,9 @@
+a	1
+A	1
+aggo	1
+away	1
+far	2
+galaxy	1
+in	1
+long	1
+time	1

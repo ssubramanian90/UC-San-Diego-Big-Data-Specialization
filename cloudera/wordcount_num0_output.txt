@@ -1,0 +1,31 @@
+a	1
+A	1
+aggo	1
+Another	1
+away	1
+episode	1
+far	2
+galaxy	1
+in	1
+long	1
+of	1
+Star	1
+time	1
+Wars	1
+A	1
+long	1
+time	1
+aggo	1
+in	1
+a	1
+galaxy	1
+far	1
+far	1
+away	1
+Another	1
+episode	1
+of	1
+Star	1
+Wars	1
+
+
